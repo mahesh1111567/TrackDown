@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://check.onrender.com";
+var hostURL="https://check-6grc.onrender.com";
 //TOGGLE for Shorters
 var use1pt=false;
 
