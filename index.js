@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://gifts-for-you-u7th.onrender.com";
+var hostURL="https://trackdown-bxrh.onrender.com";
 //TOGGLE for Shorters
 var use1pt=false;
 
